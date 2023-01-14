@@ -32,8 +32,8 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
-          level: Professional
+        - idiom: Spoken:
+          level: English, Telugu, French, Hindi
 
         - idiom: Telugu
           level: Native
@@ -70,7 +70,7 @@ education:
     info:
       - degree: MS in Analytics - Data Science #and Bus. Analytics)
         university: Georgia Institute of Technology, USA
-        time: 2022 - 2023, GPA - 4.0/4.0
+        time: 2022 - 2023, GPA - 4 / 4
         details: |
           It is multi-disciplinary MS program in Data Science at Georgia Tech where I get to 
           specialize in one or more tracks. I choose C-track (Data Science / Computational Data Analytics) 
@@ -86,13 +86,13 @@ education:
             - Bullet point
       - degree: M Tech. in Aerospace Engineering
         university: Indian Institute of Technology Madras, India #(IIT-M), India
-        time: 2007 - 2012, GPA - 8.29/10
+        time: 2007 - 2012, GPA - 8.29 / 10
         details: |
           Dual degree (Bachelors + Masters) in Aerospace Engineering.
             - Bullet point
       - degree: B Tech. in Aerospace Engineering
         university: Indian Institute of Technology Madras, India #(IIT-M), India
-        time: 2007 - 2012, GPA - 8.29/10
+        time: 2007 - 2012, GPA - 8.29 / 10
         details: |
           Dual degree (Bachelors + Masters) in Aerospace Engineering.
             - Bullet point
