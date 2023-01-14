@@ -235,12 +235,12 @@ oss:
 
 publications:
     title: Publications & Conferences
-    intro: #| #
+    intro: | #
     papers:
-      - title: Uncertainty propagation CFD results to flight performance analysis
+      - title: The Art of Computer Programming
         link: "#"
-        authors: R. V. K. Chakravarthy, John A. Schaefer, Andrew W. Cary
-        conference: "Boeing Technical Excellence Conference, Anaheim, USA (2019)".
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
 
       - title: Global stability of buoyant jets and plumes
         link: "https://doi.org/10.1017/jfm.2017.764"
