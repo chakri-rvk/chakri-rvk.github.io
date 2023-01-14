@@ -247,8 +247,8 @@ publications:
         authors: R. V. K. Chakravarthy, L. Lesshafft, P. Huerre
         conference: "Journal of Fluid Mechanics, vol. 835, 654 - 673. (2018)"
 
-      - title: Analytical and numerical study of normal shock response in a
- uniform duct
+      - title: Analytical and numerical study of normal shock response 
+               in a uniform duct
         link: "https://doi.org/10.1063/1.5027903"
         authors: R. V. K. Chakravarthy, V. Nair, S. Ghosh, T. M. Muruganandam
         conference: "Physics of Fluids, vol. 30(8), 086101. (2018)"
@@ -257,16 +257,6 @@ publications:
         link: "#"
         authors: R. V. K. Chakravarthy, G. Balarac, O. Metais
         conference: "16th European Turbulence Conference, Stockholm, Sweden. (2017)"
-
-      - title: Global stability of buoyant jets and plumes
-        link: "https://doi.org/10.1017/jfm.2017.764"
-        authors: R. V. K. Chakravarthy, L. Lesshafft, P. Huerre
-        conference: "Journal of Fluid Mechanics, vol. 835, 654 - 673. (2018)"
-
-      - title: Global stability of buoyant jets and plumes
-        link: "https://doi.org/10.1017/jfm.2017.764"
-        authors: R. V. K. Chakravarthy, L. Lesshafft, P. Huerre
-        conference: "Journal of Fluid Mechanics, vol. 835, 654 - 673. (2018)"
 
 skills:
     title: Skills &amp; Proficiency
