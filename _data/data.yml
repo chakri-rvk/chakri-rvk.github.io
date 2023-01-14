@@ -240,12 +240,12 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus. --->
     papers:
-      - title: "Uncertainty propagation - CFD results to flight performance analysis"
+      - title: Uncertainty propagation - CFD results to flight performance analysis
         link: "#"
         authors: R. V. K. Chakravarthy, John A. Schaefer, Andrew W. Cary
         conference: "Boeing Technical Excellence Conference, Anaheim, USA (2019)".
 
-      - title: "Global stability of buoyant jets and plumes"
+      - title: Global stability of buoyant jets and plumes
         link: "https://doi.org/10.1017/jfm.2017.764"
         authors: R. V. K. Chakravarthy, L. Lesshafft, P. Huerre
         conference: "Journal of Fluid Mechanics, vol. 835, 654 - 673. (2018)"
