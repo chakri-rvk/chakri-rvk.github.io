@@ -238,7 +238,7 @@ publications:
     intro: | #
     papers:
       - title: Uncertainty propagation - CFD results to flight performance analysis
-        link: "#"
+        link: #"#"
         authors: R. V. K. Chakravarthy, John A. Schaefer, Andrew W. Cary
         conference: Boeing Technical Excellence Conference, Anaheim, USA, 2019
 
