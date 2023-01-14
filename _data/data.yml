@@ -38,17 +38,14 @@ sidebar:
         - idiom: Telugu
           level: Native
 
-        - idiom: Hindi
-          level: Intermediate
-          
         - idiom: French
-          level: Beginner
+          level: Intermediate
 
     interests:
       title: Skills
       info:
-        - item: Programming
-          link: Python
+        - item: Programming - Python, SQL, R, MATLAB, Shell scripting, CPLEX, C
+          link: 
 
         - item: Snowboarding
           link:
