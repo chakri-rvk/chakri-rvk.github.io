@@ -44,7 +44,7 @@ sidebar:
     interests:
       title: Skills
       info:
-        - item: Programming - Python, SQL, R, MATLAB, Shell scripting, CPLEX, C
+        - item: Programming - Python, SQL, R, CPLEX
           link: 
 
         - item: Snowboarding
