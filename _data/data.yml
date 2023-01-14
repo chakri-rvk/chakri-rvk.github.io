@@ -71,16 +71,28 @@ sidebar:
         - item: Variable selection
           link:
 
+        - item: Clustering
+          link:
+
         - item: Deep learning - NLP, CV
           link:
 
-        - item: Ensemble methods - XGBoost, Random forest
-          link:
-
-        - item: Sequence models - RNN, LSTM
-          link:
-
         - item: Time series analysis - ARIMA, Prophet
+          link:
+
+        - item: XGBoost
+          link:
+
+        - item: Random forest
+          link:
+
+        - item: Sequence models - HMM, RNN, LSTM
+          link:
+
+        - item: Linear programming
+          link:
+
+        - item: Constraint optmization
           link:
 
 career-profile:
