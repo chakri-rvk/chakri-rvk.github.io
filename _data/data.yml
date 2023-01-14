@@ -90,11 +90,11 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Stochastic Regression and Uncertainty Quantification
+        time: 2017 - 2021
+        company: Boeing - Rsearch & Technology, India
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          Describe your role here <!--- lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
@@ -102,9 +102,14 @@ experiences:
           enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
           error sit voluptatem accusantium doloremque laudantium, totam rem
           aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          architecto beatae vitae dicta sunt explicabo. --->
+            - Executed the development of stochastic regression toolbox to fuse multiple data sources and 
+              provided quantitative estimates on uncertainty, resulting in significant reduction in aircraft 
+              certification costs.
+            - Supervised the integration of statistical modeling framework from Matlab into Python to achieve
+              seamless integration with Boeing’s existing suite of design tools, thus accelerated the design 
+              and certification process.
+            - Formulated cross-functional research projects to meet the requirements of business and engineering units.
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
