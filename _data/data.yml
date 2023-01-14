@@ -234,21 +234,21 @@ oss:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
-    intro: |
+    title: Publications & Conferences
+    intro: <!--- |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      bibendum fringilla a eu lectus. --->
     papers:
-      - title: The Art of Computer Programming
+      - title: Uncertainty propagation: CFD results to flight performance analysis
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: R. V. K. Chakravarthy, John A. Schaefer, Andrew W. Cary
+        conference: "Boeing Technical Excellence Conference, Anaheim, USA (2019)".
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Global stability of buoyant jets and plumes"
+        link: "https://doi.org/10.1017/jfm.2017.764"
+        authors: R. V. K. Chakravarthy, L. Lesshafft, P. Huerre
+        conference: "Journal of Fluid Mechanics, vol. 835, 654 - 673. (2018)"
 
       - title: A syntax directed compiler for Algol 60
         link: "#"
