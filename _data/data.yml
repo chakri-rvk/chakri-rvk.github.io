@@ -85,26 +85,16 @@ education:
             - [Thesis] (https://yakari.polytechnique.fr/Django-pub/documents/theses/V.K.Chakravarthy.PhD.pdf)
             - Bullet point
       - degree: M Tech. in Aerospace Engineering
-        university: Indian Institute of technology Madras (IIT-M)
+        university: Indian Institute of Technology Madras (IIT-M), India
         time: 2007 - 2012, GPA - 8.29/10
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
+          Dual degree (Bachelors + Masters) in Aerospace Engineering.
             - Bullet point
       - degree: B Tech. in Aerospace Engineering
-        university: Indian Institute of technology Madras (IIT-M)
+        university: Indian Institute of Technology Madras (IIT-M), India
         time: 2007 - 2012, GPA - 8.29/10
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
+          Dual degree (Bachelors + Masters) in Aerospace Engineering.
             - Bullet point
 experiences:
     title: Experiences
