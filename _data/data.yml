@@ -253,7 +253,7 @@ publications:
         conference: "Physics of Fluids, vol. 30(8), 086101. (2018)"
 
       - title: Dynamics of coaxial swirling jets
-        link: "#"
+        link: #"#"
         authors: R. V. K. Chakravarthy, G. Balarac, O. Metais
         conference: "16th European Turbulence Conference, Stockholm, Sweden. (2017)"
 
@@ -263,7 +263,7 @@ publications:
         conference: "The International Conference on Jets, Wakes and Separated Flows, KTH, Stockholm, Sweden. (2016)"
         
       - title: The multifold effects of density on the instability of jets, plumes and premixed flames
-        link: "#"
+        link: #"#"
         authors: P. Huerre, R. V. K. Chakravarthy, L. Lesshafft
         conference: "24th International Congress of Theoretical and Applied Mechanics, Montreal, Canada. (2016)"
 
@@ -273,9 +273,24 @@ publications:
         conference: "Journal of Fluid Mechanics, vol. 780, 344 - 369. (2015)"
 
       - title: Buoyancy-driven instability in plumes
-        link: "#"
+        link: #"#"
         authors: R. V. K. Chakravarthy, L. Lesshafft, P. Huerre
         conference: "EUROMECH Colloquium 567 - Turbulent mixing in stratified flows, Cambridge, UK. (2015)"
+
+      - title: Local stability of axisymmetric plumes
+        link: "https://www.academia.edu/33441591/67th_Annual_Meeting_of_the_APS_Division_of_Fluid_Dynamics"
+        authors: R. V. K. Chakravarthy, L. Lesshafft, P. Huerre
+        conference: "APS: 67th Annual DFD meeting, San Francisco, USA. (2014)"
+
+      - title: Local and global instability of free and confined plumes
+        link: #"#"
+        authors: L. Lesshafft, R. V. K. Chakravarthy, P. Huerre
+        conference: "10th European Fluid Mechanics Conference, TU Denmark, Copenhagen, Denmark. (2014)"
+
+      - title: Stability of developing film flow down an inclined surface
+        link: "https://doi.org/10.1063/1.4758299"
+        authors: S. Ramadurgam, R. V. K. Chakravarthy, G. Tomar, R. Govindarajan
+        conference: "Physics of Fluids, vo. 24(10), 102109. (2012)"
 
 skills:
     title: Skills &amp; Proficiency
