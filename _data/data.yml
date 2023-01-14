@@ -33,13 +33,16 @@ sidebar:
       title: Languages
       info:
         - idiom: English
+          level: Professional
+
+        - idiom: Telugu
           level: Native
 
+        - idiom: Hindi
+          level: Intermediate
+          
         - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+          level: Beginner
 
     interests:
       title: Interests
