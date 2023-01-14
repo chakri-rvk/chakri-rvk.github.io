@@ -32,8 +32,8 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: Spoken - English, Telugu, French, Hindi
-          #level: 
+        - idiom: English
+          level: Professional
 
         - idiom: Telugu
           level: Native
@@ -45,7 +45,7 @@ sidebar:
           level: Beginner
 
     interests:
-      title: Interests
+      title: Skills
       info:
         - item: Climbing
           link:
