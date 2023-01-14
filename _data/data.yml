@@ -30,7 +30,7 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Technical Skills & Programming
+      title: Programming Skills
       info:
         - idiom: Python
           level: Proficient
@@ -60,15 +60,27 @@ sidebar:
           level: Basic
 
     interests:
-      title: Skills
+      title: Data Modeling
       info:
-        - item: Programming - Python, SQL, R, CPLEX
+        - item: Linear regression
           link: 
 
-        - item: Snowboarding
+        - item: Hypothesis testing
           link:
 
-        - item: Cooking
+        - item: Variable selection
+          link:
+
+        - item: Deep learning - NLP, CV
+          link:
+
+        - item: Ensemble methods - XGBoost, Random forest
+          link:
+
+        - item: Sequence models - RNN, LSTM
+          link:
+
+        - item: Time series analysis - ARIMA, Prophet
           link:
 
 career-profile:
