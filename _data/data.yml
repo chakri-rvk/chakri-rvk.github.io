@@ -78,7 +78,7 @@ education:
       - degree: Ph.D in Aerospace Engineering (Fluid Mechanics) #(https://yakari.polytechnique.fr/Django-pub/documents/theses/V.K.Chakravarthy.PhD.pdf)
         university: Ecole Polytechnique, France
         time: 2012 - 2015, GPA: Tres Honorable (High Honours)
-        details: Grade: High Honours
+        details: |
           I did my doctoral thesis at LadHyX (laboratoire d'Hydrodynamique) at Ecole Polytechnique 
           on "Local and Global Instabilites in Buoyant Jets and Plumes" 
           and my work received the highest grade of "Tres Honorable" (High Honours).
