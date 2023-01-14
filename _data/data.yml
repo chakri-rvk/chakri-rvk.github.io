@@ -47,8 +47,8 @@ sidebar:
     interests:
       title: Skills
       info:
-        - item: Climbing
-          link:
+        - item: Programming
+          link: Python
 
         - item: Snowboarding
           link:
