@@ -33,7 +33,7 @@ sidebar:
       title: Languages
       info:
         - idiom: Spoken - English, Telugu, French, Hindi
-          level: 
+          #level: 
 
         - idiom: Telugu
           level: Native
