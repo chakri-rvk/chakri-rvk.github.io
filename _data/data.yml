@@ -74,19 +74,25 @@ sidebar:
         - item: Clustering
           link:
 
-        - item: Deep learning - NLP, CV
-          link:
-
         - item: Time series analysis - ARIMA, Prophet
           link:
 
+        - item: Sequence models - HMM, RNN, LSTM
+          link:
+          
+        - item: Deep learning
+          link:
+
+        - item: Natural language processing (NLP)
+          link:
+
+        - item: Computer Vision (CV)
+          link:
+          
         - item: XGBoost
           link:
 
         - item: Random forest
-          link:
-
-        - item: Sequence models - HMM, RNN, LSTM
           link:
 
         - item: Linear programming
