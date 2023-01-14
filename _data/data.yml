@@ -75,7 +75,7 @@ education:
           It is multi-disciplinary MS program in Data Science at Georgia Tech where I get to 
           specialize in one or more tracks. I choose C-track (Data Science / Computational Data Analytics) 
           offered by the College of Computing and B-track (Business Analytics track) from Scheller Business School.
-      - degree: [Ph.D in Aerospace Engineering (Fluid Mechanics)] (https://yakari.polytechnique.fr/Django-pub/documents/theses/V.K.Chakravarthy.PhD.pdf)
+      - degree: Ph.D in Aerospace Engineering (Fluid Mechanics) #(https://yakari.polytechnique.fr/Django-pub/documents/theses/V.K.Chakravarthy.PhD.pdf)
         university: Ecole Polytechnique, France
         time: 2012 - 2015
         details: |
