@@ -235,11 +235,7 @@ oss:
 
 publications:
     title: Publications & Conferences
-    intro: #| 
-    <!---
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus. --->
+    intro: |
     papers:
       - title: Uncertainty propagation CFD results to flight performance analysis
         link: "#"
