@@ -237,7 +237,7 @@ publications:
     title: Publications & Conferences
     intro: | #
     papers:
-      - title: The Art of Computer Programming
+      - title: Uncertainty propagation - CFD results to flight performance analysis
         link: "#"
         authors: R. V. K. Chakravarthy, John A. Schaefer, Andrew W. Cary
         conference: Boeing Technical Excellence Conference, Anaheim, USA, 2019
