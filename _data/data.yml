@@ -71,15 +71,14 @@ education:
       - degree: MS in Analytics (Data Science and Business Analytics)
         university: Georgia Institute of Technology, USA
         time: 2022 - 2023
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
+        details:           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: Ph.D in Aerospace Engineering (Fluid mechanics)
+      - degree: Ph.D in Aerospace Engineering (Fluid Mechanics)
         university: Ecole Polytechnique, France
         time: 2012 - 2015
         details: |
