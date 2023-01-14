@@ -32,8 +32,8 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: Spoken -
-          level: English, Telugu, French, Hindi
+        - idiom: Spoken - English, Telugu, French, Hindi
+          level: 
 
         - idiom: Telugu
           level: Native
