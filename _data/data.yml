@@ -30,16 +30,34 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages
+      title: Technical Skills & Programming
       info:
-        - idiom: English
-          level: Professional
+        - idiom: Python
+          level: Proficient
 
-        - idiom: Telugu
-          level: Native
+        - idiom: SQL
+          level: Proficient
 
-        - idiom: French
+        - idiom: R
           level: Intermediate
+          
+        - idiom: PySpark
+          level: Basic
+          
+        - idiom: PyTorch
+          level: Proficient
+
+        - idiom: Keras
+          level: Indermediate
+
+        - idiom: MATLAB
+          level: Proficient
+          
+        - idiom: Shell scripting
+          level: Intermediate
+          
+        - idiom: CPLEX
+          level: Basic
 
     interests:
       title: Skills
