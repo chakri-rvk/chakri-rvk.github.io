@@ -147,13 +147,13 @@ education:
           Dual degree (Bachelors + Masters) in Aerospace Engineering.
             - Bullet point
 experiences:
-    title: Experiences
+    title: Work Experience
     info:
       - role: Guaranteeing AI Robustness Against Deception for Computer Vision
         time: 2022 - present
         company: Intel - Georgia Institute of Technology, USA
         details: |
-          Describe your role here <!--- lorem ipsum dolor sit amet, consectetuer
+          <!--- lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
