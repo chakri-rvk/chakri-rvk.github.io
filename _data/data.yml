@@ -185,32 +185,32 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus. --->
     assignments:
-      - title: Coca-Cola Pricing Strategy
+      - title: Coca-Cola Pricing Strategy [report]
         link: "#hook"
         tagline: "Effect of price promotions in Spanish beverage market. <br/> - Identified 
         pricing mismatch across sales channels to enable Coke achieve 10x growth in sales and become a market leader in Spain’s still water 
         market. <br/> - Generated $1.4 million additional annual profit by ending Coke’s ineffective price discounting strategy."
 
-      - title: Humana-Mays Healthcare Analytics
+      - title: Humana-Mays Healthcare Analytics [report]
         link: "#"
         tagline: "Competition across US universities to predict housing insecurity. <br/> - Placed in Top 25 teams nationally for developing a robust and equitable 
         model to predict housing insecurity among Humana’s Medicare users whilst handling imbalanced data with missing values using LightGBM."
 
-      - title: Automated Essay Scoring - I
+      - title: Automated Essay Scoring - I [report]
         link: "#"
         tagline: "Machine Learning course project based on Kaggle dataset using classical supervised and unsupervised learning methods."
 
-      - title: Automated Essay Scoring - II
+      - title: Automated Essay Scoring - II [report]
         link: "#"
         tagline: "NLP course project based on Kaggle dataset using deep learning techniques."
 
-      - title: Crude Oil Price Prediction
+      - title: Crude Oil Price Prediction [report]
         link: "#"
         tagline: "Is public sentiment on crude oil price related to its hidden state in HMM? <br/> - Modeled crude oil 
         prices as Hidden Markov Model and deduced the underlying hidden state representation. <br/> - Discovered a weak correlation 
         between the Markov hidden states and the public sentiment on crude oil (obtained by using FinBERT on news articles related to crude oil/energy)."
 
-      - title: Airbnb Price Prediction
+      - title: Airbnb Price Prediction [report]
         link: "#"
         tagline: "Predict Airbnb rental prices in New York City using multi-linear regression. <br/> - Developed 
         multi-linear regression model to predict Airbnb listing price in NYC based on Kaggle dataset. <br/> - Reduced prediction error 
@@ -225,12 +225,12 @@ publications:
         authors: R. V. K. Chakravarthy, John A. Schaefer, Andrew W. Cary
         conference: Boeing Technical Excellence Conference, Anaheim, USA, 2019
 
-      - title: Global stability of buoyant jets and plumes
+      - title: Global stability of buoyant jets and plumes (paper)
         link: "https://doi.org/10.1017/jfm.2017.764"
         authors: R. V. K. Chakravarthy, L. Lesshafft, P. Huerre
         conference: "Journal of Fluid Mechanics, vol. 835, 654 - 673. (2018)"
 
-      - title: Analytical and numerical study of normal shock response in a uniform duct
+      - title: Analytical and numerical study of normal shock response in a uniform duct (paper)
         link: "https://doi.org/10.1063/1.5027903"
         authors: R. V. K. Chakravarthy, V. Nair, S. Ghosh, T. M. Muruganandam
         conference: "Physics of Fluids, vol. 30(8), 086101. (2018)"
@@ -240,7 +240,7 @@ publications:
         authors: R. V. K. Chakravarthy, G. Balarac, O. Metais
         conference: "16th European Turbulence Conference, Stockholm, Sweden. (2017)"
 
-      - title: Effect of buoyancy on the instability of light jets and plumes
+      - title: Effect of buoyancy on the instability of light jets and plumes (paper)
         link: "https://doi.org/10.1007/978-3-319-30602-5_8"
         authors: R. V. K. Chakravarthy, L. Lesshafft, P. Huerre
         conference: "The International Conference on Jets, Wakes and Separated Flows, KTH, Stockholm, Sweden. (2016)"
@@ -250,7 +250,7 @@ publications:
         authors: P. Huerre, R. V. K. Chakravarthy, L. Lesshafft
         conference: "24th International Congress of Theoretical and Applied Mechanics, Montreal, Canada. (2016)"
 
-      - title: Local linear stability of laminar axisymmetric plumes
+      - title: Local linear stability of laminar axisymmetric plumes (paper)
         link: "https://doi.org/10.1017/jfm.2015.478"
         authors: R. V. K. Chakravarthy, L. Lesshafft, P. Huerre
         conference: "Journal of Fluid Mechanics, vol. 780, 344 - 369. (2015)"
@@ -260,7 +260,7 @@ publications:
         authors: R. V. K. Chakravarthy, L. Lesshafft, P. Huerre
         conference: "EUROMECH Colloquium 567 - Turbulent mixing in stratified flows, Cambridge, UK. (2015)"
 
-      - title: Local stability of axisymmetric plumes
+      - title: Local stability of axisymmetric plumes (abstract)
         link: "https://www.academia.edu/33441591/67th_Annual_Meeting_of_the_APS_Division_of_Fluid_Dynamics"
         authors: R. V. K. Chakravarthy, L. Lesshafft, P. Huerre
         conference: "APS: 67th Annual DFD meeting, San Francisco, USA. (2014)"
@@ -270,7 +270,7 @@ publications:
         authors: L. Lesshafft, R. V. K. Chakravarthy, P. Huerre
         conference: "10th European Fluid Mechanics Conference, TU Denmark, Copenhagen, Denmark. (2014)"
 
-      - title: Stability of developing film flow down an inclined surface
+      - title: Stability of developing film flow down an inclined surface (paper)
         link: "https://doi.org/10.1063/1.4758299"
         authors: S. Ramadurgam, R. V. K. Chakravarthy, G. Tomar, R. Govindarajan
         conference: "Physics of Fluids, vo. 24(10), 102109. (2012)"
