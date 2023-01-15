@@ -179,16 +179,13 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
+      <!--- You can list your side projects in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus. --->
     assignments:
-      - title: Velocity
+      - title: Coca-Cola Pricing Strategy
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-        details: |
-            - gdfklgndfkl
-            - osovi 9 we iw0
+        tagline: Business analytics case study to understand the efficacy of price promotions in Spanish beverage market.
 
       - title: DevStudio
         link: "#"
