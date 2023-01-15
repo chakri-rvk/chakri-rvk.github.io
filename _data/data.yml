@@ -205,7 +205,7 @@ projects:
         tagline: "NLP course project based on Kaggle dataset using deep learning techniques."
 
       - title: Crude Oil Price Prediction [report]
-        link: "#"
+        link: "assets/CrudeOilHMM_FinalProject_Report.pdf"
         tagline: "Is public sentiment on crude oil price related to its hidden state in HMM? <br/> - Modeled crude oil 
         prices as Hidden Markov Model and deduced the underlying hidden state representation. <br/> - Discovered a weak correlation 
         between the Markov hidden states and the public sentiment on crude oil (obtained by using FinBERT on news articles related to crude oil/energy)."
