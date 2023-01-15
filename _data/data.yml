@@ -48,7 +48,7 @@ sidebar:
           level: Proficient
 
         - idiom: Keras
-          level: Indermediate
+          level: Intermediate
 
         - idiom: MATLAB
           level: Proficient
@@ -127,11 +127,11 @@ education:
           offered by the College of Computing and B-track (Business Analytics track) from Scheller Business School.
       - degree: Ph.D in Aerospace Engineering #(Fluid Mechanics) 
         university: Ecole Polytechnique, France
-        time: 2012 - 2015, GPA - High Honours
+        time: 2012 - 2015, GPA - High Honors
         details: |
           I did my doctoral thesis at LadHyX (laboratoire d'Hydrodynamique) at Ecole Polytechnique 
-          on "Local and Global Instabilites in Buoyant Jets and Plumes" 
-          and my work received the highest grade of "Tres Honorable" (High Honours).
+          on "Local and Global Instabilities in Buoyant Jets and Plumes" 
+          and my work received the highest grade of "Tres Honorable" (High Honors).
             - [Thesis] (https://yakari.polytechnique.fr/Django-pub/documents/theses/V.K.Chakravarthy.PhD.pdf)
             - Bullet point
       - degree: M Tech. in Aerospace Engineering
@@ -179,7 +179,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Reports for each of these projects may be obtained by clicking the project name. However, the codes cannot be be shared
+      Reports for each of these projects may be obtained by clicking the project name. However, the codes cannot be shared
       due to Georgia Tech policies. I am listed as "Vamsi Ravilla" or "Vamsi Krishna Chakravarthy Ravilla" in these projects.
       <!--- You can list your side projects in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
