@@ -195,24 +195,19 @@ projects:
 
       - title: Automated Essay Scoring - II [presentation]
         link: "assets/AES_II_FinalPresentation.pdf"
-        tagline: "Multi-mteric essay evaluation using deep language models and data augmentation using auto-encoders."
+        tagline: "Multi-metric essay evaluation using deep language models and data augmentation using auto-encoders."
 
       - title: Crude Oil Price Prediction [report]
         link: "assets/CrudeOilHMM_FinalProject_Report.pdf"
-        tagline: "Is public sentiment on crude oil price related to its hidden state in HMM? <br/> - Modeled crude oil 
-        prices as Hidden Markov Model and deduced the underlying hidden state representation. <br/> - Discovered a weak correlation 
-        between the Markov hidden states and the public sentiment on crude oil (obtained by using FinBERT on news articles related to crude oil/energy)."
+        tagline: "Is public sentiment on crude oil price related to its hidden state in HMM?"
 
       - title: Airbnb Price Prediction [presentation]
         link: "assets/Group20_PPT_Final.pdf"
-        tagline: "Predict Airbnb rental prices in New York City using multi-linear regression. <br/> - Developed 
-        multi-linear regression model to predict Airbnb listing price in NYC based on Kaggle dataset. <br/> - Reduced prediction error 
-        by 50% through geo-location based feature engineering and model selection."
+        tagline: "Predict rental prices in New York City using multi-linear regression."
 
       - title: Humana-Mays Healthcare Analytics [report]
         link: "assets/Humana_Mays_Healthcare_Analytics_Case_Report.pdf"
-        tagline: "Competition across US universities to predict housing insecurity. <br/> - Placed in Top 25 teams nationally for developing a robust and equitable 
-        model to predict housing insecurity among Humana’s Medicare users whilst handling imbalanced data with missing values using LightGBM."
+        tagline: "Predict housing insecurity (case study competition)"
 
 publications:
     title: Publications & Conferences
