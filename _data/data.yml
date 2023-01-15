@@ -187,7 +187,7 @@ projects:
     assignments:
       - title: Coca-Cola Pricing Strategy
         link: "#hook"
-        tagline: "Case study to understand the efficacy of price promotions in Spanish beverage market. <br/> - Identified 
+        tagline: "Effect of price promotions in Spanish beverage market. <br/> - Identified 
         pricing mismatch across sales channels to enable Coke achieve 10x growth in sales and become a market leader in Spain’s still water 
         market. <br/> - Generated $1.4 million additional annual profit by ending Coke’s ineffective price discounting strategy."
 
@@ -206,7 +206,7 @@ projects:
 
       - title: Crude Oil Price Prediction
         link: "#"
-        tagline: "Is public sentiment on crude oil price related to its underlying hidden state in HMM? <br/> - Modeled crude oil 
+        tagline: "Is public sentiment on crude oil price related to its hidden state in HMM? <br/> - Modeled crude oil 
         prices as Hidden Markov Model and deduced the underlying hidden state representation. <br/> - Discovered a weak correlation 
         between the Markov hidden states and the public sentiment on crude oil (obtained by using FinBERT on news articles related to crude oil/energy)."
 
