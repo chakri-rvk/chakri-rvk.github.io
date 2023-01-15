@@ -166,7 +166,7 @@ experiences:
         time: 2017 - 2021
         company: Boeing Research & Technology, India
         details: |
-          Describe your role here <!--- lorem ipsum dolor sit amet, consectetuer
+          <!--- Describe your role here lorem ipsum dolor sit amet, consectetuer
           architecto beatae vitae dicta sunt explicabo. --->
             - Executed the development of stochastic regression toolbox to fuse multiple 
               data sources and provided quantitative estimates on uncertainty, resulting 
