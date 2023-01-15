@@ -191,21 +191,30 @@ projects:
         pricing mismatch across sales channels to enable Coke achieve 10x growth in sales and become a market leader in Spain’s still water 
         market. <br/> - Generated $1.4 million additional annual profit by ending Coke’s ineffective price discounting strategy."
 
-      - title: DevStudio
+      - title: Humana-Mays Healthcare Analytics
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Case study competition across US universities. <br/> - Placed in Top 25 teams nationally for developing a robust and equitable 
+        model to predict housing insecurity among Humana’s Medicare users whilst handling imbalanced data with missing values using LightGBM."
 
-      - title: Tempo
+      - title: Automated Essay Scoring - I
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Machine Learning course project based on Kaggle dataset using classical supervised and unsupervised learning methods."
 
-      - title: Atom
+      - title: Automated Essay Scoring - II
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "NLP course project based on Kaggle dataset using deep learning techniques."
 
-      - title: Delta
+      - title: Crude Oil Price Prediction
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Is the public sentiment on crude oil price related to its underlying hidden state in HMM? <br/> - Modeled crude oil 
+        prices as Hidden Markov Model and deduced the underlying hidden state representation. <br/> - Discovered a weak correlation 
+        between the Markov hidden states and the public sentiment on crude oil (obtained by using FinBERT on news articles related to crude oil/energy)."
+
+      - title: Airbnb Price Prediction
+        link: "#"
+        tagline: "Regression Analysis course project based on Kaggle dataset using multi-linear regression analysis. <br/> - Developed 
+        multi-linear regression model to predict Airbnb listing price in NYC based on Kaggle dataset. <br/> - Reduced prediction error 
+        by 50% through geo-location based feature engineering and model selection."
 
 publications:
     title: Publications & Conferences
