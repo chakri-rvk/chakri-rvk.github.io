@@ -180,7 +180,7 @@ projects:
     title: Projects
     intro: >
       Reports for each of these projects may be obtained by clicking the project name. However, the codes cannot be be shared to public 
-      due to Georgia Tech policies. I am listed as "Vamsi Ravilla" or "Vamsi Krishna Chakravarthy Ravilla" in these projects.
+      due to Georgia Tech policies. <br/> I am listed as "Vamsi Ravilla" or "Vamsi Krishna Chakravarthy Ravilla" in these projects.
       <!--- You can list your side projects in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus. --->
@@ -190,11 +190,6 @@ projects:
         tagline: "Effect of price promotions in Spanish beverage market. <br/> - Identified 
         pricing mismatch across sales channels to enable Coke achieve 10x growth in sales and become a market leader in Spain’s still water 
         market. <br/> - Generated $1.4 million additional annual profit by ending Coke’s ineffective price discounting strategy."
-
-      - title: Humana-Mays Healthcare Analytics [report]
-        link: "assets/Humana_Mays_Healthcare_Analytics_Case_Report.pdf"
-        tagline: "Competition across US universities to predict housing insecurity. <br/> - Placed in Top 25 teams nationally for developing a robust and equitable 
-        model to predict housing insecurity among Humana’s Medicare users whilst handling imbalanced data with missing values using LightGBM."
 
       - title: Automated Essay Scoring - I [report]
         link: "https://lakshitadodeja.github.io/Machine_Learning_Team_7/"
@@ -215,6 +210,11 @@ projects:
         tagline: "Predict Airbnb rental prices in New York City using multi-linear regression. <br/> - Developed 
         multi-linear regression model to predict Airbnb listing price in NYC based on Kaggle dataset. <br/> - Reduced prediction error 
         by 50% through geo-location based feature engineering and model selection."
+
+      - title: Humana-Mays Healthcare Analytics [report]
+        link: "assets/Humana_Mays_Healthcare_Analytics_Case_Report.pdf"
+        tagline: "Competition across US universities to predict housing insecurity. <br/> - Placed in Top 25 teams nationally for developing a robust and equitable 
+        model to predict housing insecurity among Humana’s Medicare users whilst handling imbalanced data with missing values using LightGBM."
 
 publications:
     title: Publications & Conferences
