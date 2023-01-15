@@ -205,7 +205,7 @@ projects:
 
 oss:
     title: #OSS Contributions
-    intro: > <!---
+    intro: <!--- #> 
       You can list your open source software contributions in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus. --->
