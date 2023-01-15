@@ -179,15 +179,16 @@ experiences:
 projects:
     title: Projects
     intro: >
+      Reports for each of these projects may be obtained by cicking the project name. However, the codes cannot be be shared in public in accordance with GT policies.
       <!--- You can list your side projects in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus. --->
     assignments:
       - title: Coca-Cola Pricing Strategy
         link: "#hook"
-        tagline: Business analytics case study to understand the efficacy of price promotions in Spanish beverage market. <br/>
-        Identified pricing mismatch across sales channels to enable Coke achieve 10x growth in sales and become a market leader in Spain’s still water market. <br/>
-        Generated $1.4 million additional annual profit by ending Coke’s ineffective price discounting strategy.
+        tagline: Business analytics case study to understand the efficacy of price promotions in Spanish beverage market. Through analytics, we identified 
+        pricing mismatch across sales channels and enabled Coke achieve 10x growth in sales and become a market leader in Spain’s still water market. By ending 
+        Coke’s ineffective price discounting strategy, $1.4 million additional annual profit may be generated.
 
       - title: DevStudio
         link: "#"
