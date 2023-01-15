@@ -176,18 +176,7 @@ experiences:
               into Python to achieve seamless integration with Boeing’s existing suite 
               of design tools, thus accelerated the design and certification process.
             - Formulated cross-functional research projects to meet the requirements of business and engineering units.
-      <!---
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point --->
+
 projects:
     title: Projects
     intro: >
