@@ -206,15 +206,15 @@ p {
   .company,
   .university {
     margin-bottom: 10px;
-    color: darken($theme-color, 20%); /*$text-grey;*/
+    color: darken($theme-color, 25%); /*$text-grey;*/
   }
 
   .project-title {
     font-size: 18px;
-    font-weight: 700;
+    font-weight: 500;
     margin-top: 0;
     margin-bottom: 5px;
-    color: darken($theme-color, 20%);
+    color: darken($theme-color, 25%);
   }
   .projects-section {
     .intro {
