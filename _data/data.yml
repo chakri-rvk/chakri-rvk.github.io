@@ -125,7 +125,7 @@ education:
           It is multi-disciplinary MS program in Data Science at Georgia Tech where I get to 
           specialize in one or more tracks. I choose C-track (Data Science / Computational Data Analytics) 
           offered by the College of Computing and B-track (Business Analytics track) from Scheller Business School.
-      - degree: Ph.D in Aerospace Engineering #(Fluid Mechanics) #(https://yakari.polytechnique.fr/Django-pub/documents/theses/V.K.Chakravarthy.PhD.pdf)
+      - degree: Ph.D in Aerospace Engineering #(Fluid Mechanics) 
         university: Ecole Polytechnique, France
         time: 2012 - 2015, GPA - High Honours
         details: |
@@ -179,21 +179,21 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Reports for each of these projects may be obtained by cicking the project name. However, the codes cannot be be shared in public in accordance with 
-      Georgia Tech policies.
+      Reports for each of these projects may be obtained by cicking the project name. However, the codes cannot be be shared 
+      in public in accordance with Georgia Tech policies.
       <!--- You can list your side projects in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus. --->
     assignments:
       - title: Coca-Cola Pricing Strategy
         link: "#hook"
-        tagline: "Business analytics case study to understand the efficacy of price promotions in Spanish beverage market. <br/> - Identified 
+        tagline: "Case study to understand the efficacy of price promotions in Spanish beverage market. <br/> - Identified 
         pricing mismatch across sales channels to enable Coke achieve 10x growth in sales and become a market leader in Spain’s still water 
         market. <br/> - Generated $1.4 million additional annual profit by ending Coke’s ineffective price discounting strategy."
 
       - title: Humana-Mays Healthcare Analytics
         link: "#"
-        tagline: "Case study competition across US universities. <br/> - Placed in Top 25 teams nationally for developing a robust and equitable 
+        tagline: "Competition across US universities to predict housing insecurity. <br/> - Placed in Top 25 teams nationally for developing a robust and equitable 
         model to predict housing insecurity among Humana’s Medicare users whilst handling imbalanced data with missing values using LightGBM."
 
       - title: Automated Essay Scoring - I
@@ -206,13 +206,13 @@ projects:
 
       - title: Crude Oil Price Prediction
         link: "#"
-        tagline: "Is the public sentiment on crude oil price related to its underlying hidden state in HMM? <br/> - Modeled crude oil 
+        tagline: "Is public sentiment on crude oil price related to its underlying hidden state in HMM? <br/> - Modeled crude oil 
         prices as Hidden Markov Model and deduced the underlying hidden state representation. <br/> - Discovered a weak correlation 
         between the Markov hidden states and the public sentiment on crude oil (obtained by using FinBERT on news articles related to crude oil/energy)."
 
       - title: Airbnb Price Prediction
         link: "#"
-        tagline: "Regression Analysis course project based on Kaggle dataset using multi-linear regression analysis. <br/> - Developed 
+        tagline: "Predict Airbnb rental prices in New York City using multi-linear regression. <br/> - Developed 
         multi-linear regression model to predict Airbnb listing price in NYC based on Kaggle dataset. <br/> - Reduced prediction error 
         by 50% through geo-location based feature engineering and model selection."
 
