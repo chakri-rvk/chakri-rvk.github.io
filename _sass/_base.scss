@@ -192,7 +192,7 @@ p {
   .job-title,
   .degree {
     color: $text-color;
-    font-size: 16px;
+    font-size: 18px;
     margin-top: 0;
     margin-bottom: 0;
     font-weight: 500;
@@ -210,8 +210,8 @@ p {
   }
 
   .project-title {
-    font-size: 16px;
-    font-weight: 400;
+    font-size: 18px;
+    font-weight: 500;
     margin-top: 0;
     margin-bottom: 5px;
     color: darken($theme-color, 15%);
