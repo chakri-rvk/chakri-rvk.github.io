@@ -185,7 +185,7 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus. --->
     assignments:
-      - title: Coca-Cola Pricing Strategy [report]
+      - title: Coca-Cola Pricing Strategy [video]
         link: "https://mediaspace.gatech.edu/media/GT%20Bus%20Analytics%20Practicum%20Project%20Showcase%20Fall%202022%20%20Strategic%20Refreshment%20Consultants%20%20Spain%20%2012-6-22%20/1_w07254w5"
         tagline: "Effect of price promotions in Spanish beverage market. <br/> - Identified 
         pricing mismatch across sales channels to enable Coke achieve 10x growth in sales and become a market leader in Spain’s still water 
@@ -200,7 +200,7 @@ projects:
         link: "https://lakshitadodeja.github.io/Machine_Learning_Team_7/"
         tagline: "Machine Learning course project based on Kaggle dataset using classical supervised and unsupervised learning methods."
 
-      - title: Automated Essay Scoring - II [report]
+      - title: Automated Essay Scoring - II [presentation]
         link: "assets/AES_II_FinalPresentation.pdf"
         tagline: "NLP course project based on Kaggle dataset using deep learning techniques."
 
@@ -210,7 +210,7 @@ projects:
         prices as Hidden Markov Model and deduced the underlying hidden state representation. <br/> - Discovered a weak correlation 
         between the Markov hidden states and the public sentiment on crude oil (obtained by using FinBERT on news articles related to crude oil/energy)."
 
-      - title: Airbnb Price Prediction [report]
+      - title: Airbnb Price Prediction [presentation]
         link: "assets/Group20_PPT_Final.pdf"
         tagline: "Predict Airbnb rental prices in New York City using multi-linear regression. <br/> - Developed 
         multi-linear regression model to predict Airbnb listing price in NYC based on Kaggle dataset. <br/> - Reduced prediction error 
@@ -218,7 +218,8 @@ projects:
 
 publications:
     title: Publications & Conferences
-    intro: | I am listed as "R. V. K. Chakravarthy" in all these articles.
+    intro: | 
+        I am listed as "R. V. K. Chakravarthy" in these articles.
     papers:
       - title: Uncertainty propagation - CFD results to flight performance analysis
         link: #"#"
