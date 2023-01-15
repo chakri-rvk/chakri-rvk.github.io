@@ -180,7 +180,7 @@ projects:
     title: Projects
     intro: >
       Reports for each of these projects may be obtained by cicking the project name. However, the codes cannot be be shared 
-      in public in accordance with Georgia Tech policies.
+      in public in accordance with Georgia Tech policies. I am listed as "Vamsi ravilla" or "Vamsi Krishna Chakravarthy ravilla" in these projects.
       <!--- You can list your side projects in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus. --->
@@ -218,7 +218,7 @@ projects:
 
 publications:
     title: Publications & Conferences
-    intro: | #
+    intro: | # I am listed as "R. V. K. Chakravarthy" in all these articles.
     papers:
       - title: Uncertainty propagation - CFD results to flight performance analysis
         link: #"#"
