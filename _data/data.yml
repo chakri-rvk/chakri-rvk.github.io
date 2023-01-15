@@ -211,7 +211,7 @@ projects:
         between the Markov hidden states and the public sentiment on crude oil (obtained by using FinBERT on news articles related to crude oil/energy)."
 
       - title: Airbnb Price Prediction [report]
-        link: "#"
+        link: "assets/Group20_PPT_Final.pdf"
         tagline: "Predict Airbnb rental prices in New York City using multi-linear regression. <br/> - Developed 
         multi-linear regression model to predict Airbnb listing price in NYC based on Kaggle dataset. <br/> - Reduced prediction error 
         by 50% through geo-location based feature engineering and model selection."
