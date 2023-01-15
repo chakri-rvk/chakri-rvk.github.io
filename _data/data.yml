@@ -187,9 +187,9 @@ projects:
     assignments:
       - title: Coca-Cola Pricing Strategy
         link: "#hook"
-        tagline: "Business analytics case study to understand the efficacy of price promotions in Spanish beverage market. <br/> - Through analytics, we identified 
-        pricing mismatch across sales channels and enabled Coke achieve 10x growth in sales and become a market leader in Spain’s still water market. <br/> - By 
-        ending Coke’s ineffective price discounting strategy, $1.4 million additional annual profit may be generated."
+        tagline: "Business analytics case study to understand the efficacy of price promotions in Spanish beverage market. <br/> - Identified 
+        pricing mismatch across sales channels to enable Coke achieve 10x growth in sales and become a market leader in Spain’s still water 
+        market. <br/> - Generated $1.4 million additional annual profit by ending Coke’s ineffective price discounting strategy."
 
       - title: DevStudio
         link: "#"
