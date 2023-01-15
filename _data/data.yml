@@ -186,13 +186,13 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus. --->
     assignments:
       - title: Coca-Cola Pricing Strategy [report]
-        link: "#hook"
+        link: "https://mediaspace.gatech.edu/media/GT%20Bus%20Analytics%20Practicum%20Project%20Showcase%20Fall%202022%20%20Strategic%20Refreshment%20Consultants%20%20Spain%20%2012-6-22%20/1_w07254w5"
         tagline: "Effect of price promotions in Spanish beverage market. <br/> - Identified 
         pricing mismatch across sales channels to enable Coke achieve 10x growth in sales and become a market leader in Spain’s still water 
         market. <br/> - Generated $1.4 million additional annual profit by ending Coke’s ineffective price discounting strategy."
 
       - title: Humana-Mays Healthcare Analytics [report]
-        link: "#"
+        link: "assets/Humana_Mays_Healthcare_Analytics_Case_Report.pdf"
         tagline: "Competition across US universities to predict housing insecurity. <br/> - Placed in Top 25 teams nationally for developing a robust and equitable 
         model to predict housing insecurity among Humana’s Medicare users whilst handling imbalanced data with missing values using LightGBM."
 
@@ -201,7 +201,7 @@ projects:
         tagline: "Machine Learning course project based on Kaggle dataset using classical supervised and unsupervised learning methods."
 
       - title: Automated Essay Scoring - II [report]
-        link: "#"
+        link: "assets/AES_II_FinalPresentation.pdf"
         tagline: "NLP course project based on Kaggle dataset using deep learning techniques."
 
       - title: Crude Oil Price Prediction [report]
