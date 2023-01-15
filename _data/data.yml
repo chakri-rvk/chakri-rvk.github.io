@@ -187,9 +187,7 @@ projects:
     assignments:
       - title: Coca-Cola Pricing Strategy [video]
         link: "https://mediaspace.gatech.edu/media/GT%20Bus%20Analytics%20Practicum%20Project%20Showcase%20Fall%202022%20%20Strategic%20Refreshment%20Consultants%20%20Spain%20%2012-6-22%20/1_w07254w5"
-        tagline: "Effect of price promotions in Spanish beverage market." <!--- <br/> - Identified 
-        pricing mismatch across sales channels to enable Coke achieve 10x growth in sales and become a market leader in Spain’s still water 
-        market. <br/> - Generated $1.4 million additional annual profit by ending Coke’s ineffective price discounting strategy." --->
+        tagline: "Effect of price promotions in Spanish beverage market." 
 
       - title: Automated Essay Scoring - I [report]
         link: "https://lakshitadodeja.github.io/Machine_Learning_Team_7/"
