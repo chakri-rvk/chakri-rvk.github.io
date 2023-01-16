@@ -207,7 +207,7 @@ p {
   .university {
     margin-bottom: 10px;
     font-weight: 550;
-    color: darken($theme-color, 20%); /*$text-grey;*/
+    color: darken($theme-color, 15%); /*$text-grey;*/
   }
 
   .project-title {
@@ -215,7 +215,7 @@ p {
     font-weight: 550;
     margin-top: 0;
     margin-bottom: 5px;
-    color: darken($theme-color, 20%);
+    color: darken($theme-color, 15%);
   }
   .projects-section {
     .intro {
