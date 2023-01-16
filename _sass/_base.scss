@@ -206,13 +206,13 @@ p {
   .company,
   .university {
     margin-bottom: 10px;
-    font-weight: 550;
+    font-weight: 500;
     color: darken($theme-color, 15%); /*$text-grey;*/
   }
 
   .project-title {
     font-size: 18px;
-    font-weight: 550;
+    font-weight: 500;
     margin-top: 0;
     margin-bottom: 5px;
     color: darken($theme-color, 15%);
@@ -227,7 +227,7 @@ p {
   }
 
   .publication-title {
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 400;
     color: $text-color;
     margin-bottom: 1px;
