@@ -151,7 +151,7 @@ experiences:
     info:
       - role: Guaranteeing AI Robustness Against Deception for Computer Vision
         time: 2022 - present
-        company: Intel - Georgia Institute of Technology, USA
+        company: Intel - Georgia Institute of Technology (DARPA Project)
         details: |
           <!--- lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -164,7 +164,7 @@ experiences:
             - Achieved 4x increase in computational throughput by optimizing function calls and variables within GPU.
       - role: Stochastic Regression and Uncertainty Quantification
         time: 2017 - 2021
-        company: Boeing Research & Technology, India
+        company: Boeing Research & Technology
         details: |
           <!--- Describe your role here lorem ipsum dolor sit amet, consectetuer
           architecto beatae vitae dicta sunt explicabo. --->
@@ -175,6 +175,14 @@ experiences:
               into Python to achieve seamless integration with Boeing’s existing suite 
               of design tools, thus accelerated the design and certification process.
             - Formulated cross-functional research projects to meet the requirements of business and engineering units.
+      - role: Postdoctoral Researcher
+        time: 2016 - 2017
+        company: Grenoble INP
+        details: |
+          <!--- Describe your role here lorem ipsum dolor sit amet, consectetuer
+          architecto beatae vitae dicta sunt explicabo. --->
+            - Characterized large-scale coherent structures in swirling jets through dimensionality reduction (PCA, 
+            DMD) and established the causality based on the underlying physics through global stability analysis.
 
 projects:
     title: Projects
