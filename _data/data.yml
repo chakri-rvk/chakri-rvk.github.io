@@ -149,8 +149,8 @@ education:
 experiences:
     title: Work Experience
     info:
-      - role: Guaranteeing AI Robustness Against Deception for Computer Vision
-        time: 2022 - present
+      - role: Robust AI for Computer Vision, Graduate Research Assistant #Guaranteeing AI Robustness Against Deception for Computer Vision
+        time: 2022 - 2023
         company: Intel - Georgia Institute of Technology (DARPA Project)
         details: |
           <!--- lorem ipsum dolor sit amet, consectetuer
