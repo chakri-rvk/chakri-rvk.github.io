@@ -160,7 +160,7 @@ experiences:
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem. --->
-            - Devised scalable end-to-end recommendation system for consumer retail goods using SynapseML package..
+            - Devised scalable end-to-end recommendation system for consumer retail goods using SynapseML package.
             - Achieved 100% improvement in NDCG metric in comparison to vanilla frequency based models.
             - Analyzed cross-product interactions to identify halo/cannibal product pairs and enhance promotion planning.
       - role: Graduate Research Assistant, Robust AI for Computer Vision  #Guaranteeing AI Robustness Against Deception for Computer Vision
