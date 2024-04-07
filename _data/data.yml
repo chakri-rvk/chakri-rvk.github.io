@@ -149,7 +149,19 @@ education:
 experiences:
     title: Work Experience
     info:
-      - role: Robust AI for Computer Vision, Graduate Research Assistant #Guaranteeing AI Robustness Against Deception for Computer Vision
+      - role: Senior Data Scientist, Retail Promotions
+        time: 2023 - Present
+        company: Cognira
+        details: |
+          <!--- lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem. --->
+            - Devised scalable end-to-end recommendation system for consumer retail goods using SynapseML package..
+            - Achieved 100% improvement in NDCG metric in comparison to vanilla frequency based models.
+            - Analyzed cross-product interactions to identify halo/cannibal product pairs and enhance promotion planning.
+      - role: Graduate Research Assistant, Robust AI for Computer Vision  #Guaranteeing AI Robustness Against Deception for Computer Vision
         time: 2022 - 2023
         company: Intel - Georgia Institute of Technology (DARPA Project)
         details: |
@@ -162,7 +174,7 @@ experiences:
             - Improved accuracies of single- and Faster-RCNN based multi-object trackers by 10 and 15 percentage points respectively.
             - Designed novel small scale filtering strategy to negate the effect of moving adversarial patch.
             - Achieved 4x increase in computational throughput by optimizing function calls and variables within GPU.
-      - role: Stochastic Regression and Uncertainty Quantification
+      - role: Aerodynamics Engg. III, Stochastic Regression and Uncertainty Quantification
         time: 2017 - 2021
         company: Boeing Research & Technology
         details: |
